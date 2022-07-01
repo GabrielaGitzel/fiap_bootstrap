@@ -1,0 +1,116 @@
+body {
+	background: #0D0D24;
+}
+
+/* index.html */
+#header {
+	text-align: center;
+	color: white;
+	margin-top: 70px;
+}
+
+#logo {
+	width: 300px;
+}
+
+#btnCadastrar {
+	height: 40px;
+	width: 350px;
+	font-size: 17px;
+	font-weight: bold;
+	background-color: #33C9D8;
+	border-radius: 20px;
+	transition: 2s all;
+}
+
+#btnCadastrar:hover {
+	background-color: #E21358;
+	transform: scale(1.0);
+}
+
+#linkCadastro {
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	color: #E21358;
+	padding: 40px;
+}
+
+/* login.html */
+
+#simboloFinancis {
+	width: 100px;
+	margin-top: 110px;
+	margin-left: 20px;
+}
+
+#conteudoTexto h1, h2 {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 10px
+}
+
+#conteudoTexto h2 {
+	font-size: 17px;
+}
+
+#conteudoTexto button {
+	height: 40px;
+	width: 350px;
+	font-size: 15px;
+	font-weight: bold;
+	background-color: white;
+	border-radius: 20px;
+}
+
+.btn-group {
+	flex-direction: column;
+	align-items: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.opcaoCadastro {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+.termos {
+	color: #E21358;
+}
+
+.politica {
+	color: #E21358;
+}
+
+.termosFinancis {
+	margin-top: 230px;
+}
+
+
+/*
+.btn-group:last-child {
+	background-color: #33C9D8;
+}
+  */
+
+/* #btnGoogle {
+	height: 40px;
+	width: 350px;
+	font-size: 17px;
+	font-weight: bold;;
+	border-radius: 20px;
+}
+
+#btnEmail {
+	height: 40px;
+	width: 350px;
+	font-size: 17px;
+	font-weight: bold;;
+	border-radius: 20px;
+	background-color: #33C9D8;
+}
+ */
